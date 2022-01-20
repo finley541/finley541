@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Razr</h1>
 <h3 align="center">A developer that started programming 1 1/2 years ago.</h3>
 
-- 🔭 I’m currently working on [Sycole](https://github.com/Sycole-Team)
+- 🔭 I’m currently working on [Sycole](https://github.com/Sycole-Team) and [OpsHost](https://opshost.gq)
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/finley541/applications](https://github.com/finley541/applications)
 
-- 📝 I regularly write articles on [https://forum.razr.gq](https://forum.razr.gq)
+- 📝 I regularly write threads on [https://forum.razr.gq](https://forum.razr.gq)
 
 - 💬 Ask me about **C#, RLua, JavaScript, React, Electron**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences by reading my [resume](https://razr.gq/resume) (coming soon, had website issues)
 
-- ⚡ Fun fact **I also manufacture real life products!**
+- ⚡ Fun fact **I also own a free web hosting service!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
