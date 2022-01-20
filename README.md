@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razr</h1>
 <h3 align="center">A developer that started programming 1 1/2 years ago.</h3>
 
-- 🔭 I’m currently working on [Croze](https://razr.gq/croze)
+- 🔭 I’m currently working on [Sycole](https://github.com/Sycole-Team)
 
 - 🌱 I’m currently learning **C++, and Python**
 
