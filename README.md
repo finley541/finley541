@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences by reading my [resume](https://razr.gq/resume) (coming soon, had website issues)
 
-- ⚡ Fun fact **I also own a free web hosting service!**
+- ⚡ Fun fact **I have 4 cats, 4 dogs, 4 brothers, and 2 sisters!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
