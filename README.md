@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sycole](https://github.com/Sycole-Team)
 
-- 🌱 I’m currently learning **C++, and Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/finley541/applications](https://github.com/finley541/applications)
 
