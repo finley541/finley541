@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **razr@razr.gq**
 
-- 📄 Know about my experiences [https://razr.gq/resume](https://razr.gq/resume)
+- 📄 Know about my experiences by reading my [resume](https://razr.gq/resume) (coming soon, had website issues)
 
 - ⚡ Fun fact **I also manufacture real life products!**
 
