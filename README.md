@@ -9,7 +9,7 @@
 
 - 📝 I regularly write threads on [https://forum.razr.gq](https://forum.razr.gq)
 
-- 💬 Ask me about **C#, RLua, JavaScript, React, Electron**
+- 💬 Ask me about **C#, JavaScript, and HTML**
 
 - 📫 How to reach me **razr@razr.gq**
 
